@@ -1,0 +1,17 @@
+C:\Users\mahmood\Documents\Visual Studio 2013\Projects\TDD_lab_Functions\TDD_lab_Function.Test\obj\Debug\TDD_lab_Function.Test.csprojResolveAssemblyReference.cache
+C:\Users\mahmood\Documents\Visual Studio 2013\Projects\TDD_lab_Functions\TDD_lab_Function.Test\bin\Debug\xunit.abstractions.dll
+C:\Users\mahmood\Documents\Visual Studio 2013\Projects\TDD_lab_Functions\TDD_lab_Function.Test\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\mahmood\Documents\Visual Studio 2013\Projects\TDD_lab_Functions\TDD_lab_Function.Test\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\mahmood\Documents\Visual Studio 2013\Projects\TDD_lab_Functions\TDD_lab_Function.Test\bin\Debug\xunit.execution.desktop.dll
+C:\Users\mahmood\Documents\Visual Studio 2013\Projects\TDD_lab_Functions\TDD_lab_Function.Test\bin\Debug\TDD_lab_Function.Test.dll
+C:\Users\mahmood\Documents\Visual Studio 2013\Projects\TDD_lab_Functions\TDD_lab_Function.Test\bin\Debug\TDD_lab_Function.Test.pdb
+C:\Users\mahmood\Documents\Visual Studio 2013\Projects\TDD_lab_Functions\TDD_lab_Function.Test\bin\Debug\TDD_lab_Functions.dll
+C:\Users\mahmood\Documents\Visual Studio 2013\Projects\TDD_lab_Functions\TDD_lab_Function.Test\bin\Debug\xunit.assert.dll
+C:\Users\mahmood\Documents\Visual Studio 2013\Projects\TDD_lab_Functions\TDD_lab_Function.Test\bin\Debug\xunit.core.dll
+C:\Users\mahmood\Documents\Visual Studio 2013\Projects\TDD_lab_Functions\TDD_lab_Function.Test\bin\Debug\TDD_lab_Functions.pdb
+C:\Users\mahmood\Documents\Visual Studio 2013\Projects\TDD_lab_Functions\TDD_lab_Function.Test\bin\Debug\xunit.assert.pdb
+C:\Users\mahmood\Documents\Visual Studio 2013\Projects\TDD_lab_Functions\TDD_lab_Function.Test\bin\Debug\xunit.assert.xml
+C:\Users\mahmood\Documents\Visual Studio 2013\Projects\TDD_lab_Functions\TDD_lab_Function.Test\bin\Debug\xunit.core.pdb
+C:\Users\mahmood\Documents\Visual Studio 2013\Projects\TDD_lab_Functions\TDD_lab_Function.Test\bin\Debug\xunit.core.xml
+C:\Users\mahmood\Documents\Visual Studio 2013\Projects\TDD_lab_Functions\TDD_lab_Function.Test\obj\Debug\TDD_lab_Function.Test.dll
+C:\Users\mahmood\Documents\Visual Studio 2013\Projects\TDD_lab_Functions\TDD_lab_Function.Test\obj\Debug\TDD_lab_Function.Test.pdb
